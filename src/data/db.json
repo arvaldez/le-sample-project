@@ -1,0 +1,5179 @@
+{
+  "material_quantity_per_plant_solar": [
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "cabling",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 344135.0037,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "cabling",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 138763.8963,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "acetone",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.7927,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "alkyl amines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.1686,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 20589.0896,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.0224,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.3303,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "argon",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.4361,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "arsenic",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "arsenic",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "chlorine",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0083,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 107.5069,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 3.641,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 57372.4514,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "diborane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0001,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1260.4788,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "ethanolamines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.0314,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0436,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.9158,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11095.1715,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "gold",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0495,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "helium",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.2395,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "hexafluoroethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0743,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "hexamethyldisilazane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.033,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.8399,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.3303,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 0.3716,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.2389,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.8902,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.081,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0165,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0001,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 224687.4894,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 4242.8188,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "methyl-3-methyoxypropionate",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.1223,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.1809,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 3178.1904,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.6538,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "nitric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.1891,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 398.4719,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3521.0763,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "oxygen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 16.8707,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "palladium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "palladium",
+      "kg_per_plant": 0.0083,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "phosphate rock",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.8258,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "phosphoric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.9646,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6885.9562,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 1.1482,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "PTFE fluoropolymers",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0413,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4294,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0165,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.8169,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "sulfuric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 10.7929,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4689.9596,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 5.3715,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 108.4189,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "titanium dioxide",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 1.4616,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "trichloromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0165,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "trifluoromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0413,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0003,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "zeolite",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4129,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "inverter",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 42.4665,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 905212.9912,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 497.0912,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "cadmium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6327.6373,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 5263.5991,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "chromium steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6270.926,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.936,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3158.356,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0066,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 34.2241,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "ethylene vinyl acetate",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 217029.8469,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "float glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3008406.997,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.041,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 405.1907,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 59948.2904,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3807.7076,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 12.7667,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0005,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "magnesium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "magnesium",
+      "kg_per_plant": 28613.0188,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 5022.5383,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 249.7759,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 865.8581,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.0182,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.2059,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3815.1681,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 66050.3273,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "solar glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3985305.656,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "tellurium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tellurium",
+      "kg_per_plant": 6327.6373,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0.0039,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 246.6346,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 15.5024,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0054,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "PV module",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 1965.0054,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 51638.5987,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "carbon black",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.7069,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 11566.8767,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "chromium steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 46400.9306,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 91.0738,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2915.6172,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0017,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "ethylene carbonate",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 71.432,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 1.2562,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "graphite",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "graphite",
+      "kg_per_plant": 88.7247,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "hexafluoroethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.6296,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 99.7204,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 5269533.719,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 99418.4982,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 80942.6666,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 15.3505,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "non-PTFE fluoropolymers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4.6161,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 10.0144,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "phthalic anhydride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.9936,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 26.9357,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0.001,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 41.3555,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 7.0211,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 2544.2305,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0041,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Racking",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 148719.2845,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "boron",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 66.2235,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 20.1121,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.8878,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "concrete",
+      "level_1_analysis_group": "concrete",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2116464.234,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0106,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0148,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 54801.3053,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 1033.4956,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 774.8406,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.1595,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.28,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 23334.5533,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 0.0712,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 26.4142,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 1231.4094,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "boron",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 57.4103,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 20.6255,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.9104,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "concrete",
+      "level_1_analysis_group": "concrete",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1834800.818,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 165199.0976,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 30001.3555,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0109,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0128,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 56200.3911,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 1059.8809,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 794.6224,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.1635,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1275696.982,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 30001.3555,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.2872,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 0.0731,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 27.0886,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - CdTe UPV",
+      "component_id": "Transformer",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 8.7673,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "cabling",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 103.03025,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "cabling",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 61.81815,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "acetone",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.4483276,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "alkyl amines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.2736704,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 184.9819952,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.2876012,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.6003966,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "argon",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4.4473442,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "arsenic",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "arsenic",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "chlorine",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.013069,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 0.2602362,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.0005256,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 83.208928,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "diborane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 7.0257664,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "ethanolamines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.714068,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0000062,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0204924,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 9.94902,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "gold",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0863966,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "helium",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4442756,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hexafluoroethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.1306898,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hexamethyldisilazane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.057362,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 20.4049358,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.6039998,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 0.6759142,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.5033114,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "iron chloride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.8451376,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 5.284396,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 16.5065946,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 14.27521,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 32.4402092,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "magnesium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "magnesium",
+      "kg_per_plant": 0.2306326,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 0.6987764,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "methyl-3-methyoxypropionate",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.8708958,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0113062,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 0.678194,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.0000944,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "nitric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.1786372,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 727.9682296,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 168.0509882,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "oxygen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 45.056724,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "palladium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "palladium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "phosphate rock",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0925694,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "phosphoric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 5.4215852,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.7476218,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.0001658,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "p-series glycol ethers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4918192,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "PTFE fluoropolymers",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0784138,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4975378,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0246548,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 28.4249298,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "sulfuric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 20.8585926,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 72.9020608,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 3.3803686,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.016622,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "titanium dioxide",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.0197858,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "trichloromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0232414,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "trifluoromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0813104,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.000001,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "zeolite",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.7477586,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 0.833185,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "zirconium",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "zirconium",
+      "kg_per_plant": 0.68309,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 2160.854062,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.9227094,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 21.100426,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 9.345121,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.0003668,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 109.0783242,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0000126,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0635278,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "ethylene vinyl acetate",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 901.5203856,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0000178,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.7521208,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 303.9417194,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.6070406,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 0.617286,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 8.9125364,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 170.514392,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.0191776,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 14.548485,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 8e-7,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "magnesium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "magnesium",
+      "kg_per_plant": 66.92865,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 11.7414724,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.463635,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": -0.0167894,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.0000304,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1107.833838,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "non-PTFE fluoropolymers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 115.3916434,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 14.9198812,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "phosphoryl chloride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 12.8170104,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 356.4797026,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.0003896,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "silane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.8021202,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 599.3003218,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 125.6964158,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 581.8523156,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "solar glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 9076.967065,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0.0000076,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 24.5242682,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 13.7490742,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.0313202,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0000128,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 4.5782908,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 2596.364388,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 3.2594356,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.004457,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0000534,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 275.0907752,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 5.874741,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 3.8365336,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.0008006,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.0014058,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1978.181236,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 0.0004732,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.14636,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0000154,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - Commercial Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 0.138694,
+      "assumed_plant_size_mw": 0.2
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "cabling",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 313563.36,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "cabling",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 126436.64,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "acetone",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.7927,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "alkyl amines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.1686,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 20589.0896,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.0224,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.3303,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "argon",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.4361,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "arsenic",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "arsenic",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "chlorine",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0083,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 107.5069,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 3.641,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 57372.4514,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "diborane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0001,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1260.4788,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "ethanolamines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.0314,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0436,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.9158,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11095.1715,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "gold",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0495,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "helium",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.2395,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "hexafluoroethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0743,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "hexamethyldisilazane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.033,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.8399,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.3303,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 0.3716,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.2389,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.8902,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.081,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0165,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0001,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 224687.4894,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 4242.8188,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "methyl-3-methyoxypropionate",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.1223,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.1809,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 3178.1904,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.6538,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "nitric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.1891,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 398.4719,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3521.0763,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "oxygen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 16.8707,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "palladium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "palladium",
+      "kg_per_plant": 0.0083,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "phosphate rock",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.8258,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "phosphoric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.9646,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6885.9562,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 1.1482,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "PTFE fluoropolymers",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0413,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4294,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0165,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.8169,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "sulfuric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 10.7929,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4689.9596,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 5.3715,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 108.4189,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "titanium dioxide",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 1.4616,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "trichloromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0165,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "trifluoromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.0413,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0003,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "zeolite",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4129,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "inverter",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 42.4665,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 1060703.188,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 452.9314,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 10357.6135,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 4587.26,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.1801,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 53543.5361,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0061,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 31.1851,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "ethylene vinyl acetate",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 442531.3024,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0088,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 369.1959,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 149196.5429,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 297.9794,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 303.0086,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4374.9164,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 83700.7825,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 500.2863,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 7141.4475,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0004,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "magnesium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "magnesium",
+      "kg_per_plant": 32853.4137,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 5763.5623,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 227.5858,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": -8.2414,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.0149,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 543804.8844,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "non-PTFE fluoropolymers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 56642.5508,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 7323.7556,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "phosphoryl chloride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6291.5147,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 174985.9787,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.1913,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "silane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1375.483,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 294179.8946,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 61700.8772,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 285615.153,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "solar glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4455630.866,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0.0037,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 12038.2817,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 6749.0467,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 15.3742,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0063,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "PV module",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 2247.3558,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 47008.9401,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "carbon black",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.106,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 10529.8464,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "chromium steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 42240.8468,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 82.9086,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2654.2223,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0015,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "ethylene carbonate",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 65.028,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 1.1436,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "graphite",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "graphite",
+      "kg_per_plant": 80.7703,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "hexafluoroethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.5731,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 90.7802,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4797092.718,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 90505.1146,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 73685.7372,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 13.9743,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "non-PTFE fluoropolymers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4.2023,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 9.1166,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "phthalic anhydride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.3669,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 24.5208,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0.0009,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 37.6474,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 6.3916,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 2316.1271,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.0037,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Racking",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 135385.8305,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "boron",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 60.3394,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 18.3089,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.8082,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "concrete",
+      "level_1_analysis_group": "concrete",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1928413.906,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0097,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0135,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 49888.0562,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 940.8369,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 705.3717,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.1452,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.2549,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 21261.6,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 0.0649,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 24.046,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Remaining SBOS",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 1121.0065,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "boron",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 57.4103,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 20.6255,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.9104,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "concrete",
+      "level_1_analysis_group": "concrete",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1834800.818,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 165199.0976,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 30001.3555,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0109,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0.0128,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 56200.3911,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 1059.8809,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 794.6224,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.1635,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1275696.982,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 30001.3555,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.2872,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 0.0731,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 27.0886,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - c-Si UPV",
+      "component_id": "Transformer",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 8.7673,
+      "assumed_plant_size_mw": 100
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "cabling",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 36.83331438,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "cabling",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 22.09998863,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "acetone",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.807519356,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "alkyl amines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 6.282525678,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 103.0979189,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.12007946,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.334156823,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "argon",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.477988299,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "arsenic",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "arsenic",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "chlorine",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.007283062,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 0.145028741,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.000292292,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 46.34133433,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "diborane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.921355796,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "ethanolamines",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.06978007,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.0000035,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.010629977,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 5.541083834,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "gold",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.048147242,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "helium",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.247586268,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hexafluoroethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.072831044,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hexamethyldisilazane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.031966864,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.36556299,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.336597619,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 0.376635045,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.838551428,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "iron chloride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.470869042,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.944028445,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 9.225161589,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 7.978435608,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 18.03338987,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "magnesium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "magnesium",
+      "kg_per_plant": 0.128598756,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 0.388582409,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "methyl-3-methyoxypropionate",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 2.157138055,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.006299222,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 0.3776773,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.000052481,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "nitric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.214113472,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 405.6560314,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 93.87599965,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "oxygen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 25.13137119,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "palladium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "palladium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "phosphate rock",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.051575095,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "phosphoric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.021308147,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.4161443,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.000092235,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "p-series glycol ethers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.273623779,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "PTFE fluoropolymers",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.043698584,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.27683656,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.013739512,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 15.8368338,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "sulfuric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 11.62300697,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 40.61226205,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 1.887265094,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.009241447,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "titanium dioxide",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.011023656,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "trichloromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.012952154,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "trifluoromethane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.045312696,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 5.72e-7,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "zeolite",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.417105475,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 0.465006757,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "inverter",
+      "material_type_id": "zirconium",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "zirconium",
+      "kg_per_plant": 0.382144835,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 772.505327,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "aluminum oxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.329868611,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "ammonia",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 7.543402295,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 3.340880758,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.000131131,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "copper",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 38.9955009,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 0.0000045,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "epoxy",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.022711189,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "ethylene vinyl acetate",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 322.2935379,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.00000636,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.268883186,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "glass reinforced plastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 108.6591647,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "hydrochloric acid",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.217017015,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "hydrogen fluoride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "fluorspar",
+      "kg_per_plant": 0.220679745,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "iron",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3.186231763,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "isopropanol",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 60.95889514,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "lead",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.364355992,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "lime",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 5.201083388,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 2.86e-7,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "magnesium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "magnesium",
+      "kg_per_plant": 23.92699238,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 4.197576383,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "molybdenum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.165749513,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": -0.006002211,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.000010868,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "nitrogen",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 396.0505972,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "non-PTFE fluoropolymers",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 41.25251252,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "other",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 5.333857529,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "phosphoryl chloride",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 4.582081218,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "polyester",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 127.4414937,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.000139282,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "silane",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 1.001757972,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "silicon",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 214.249865,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "silicone",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 44.93646865,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "sodium hydroxide",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 208.0122028,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "solar glass",
+      "level_1_analysis_group": "other materials",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 3245.015726,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 0.000002717,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 8.767425882,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 4.915294027,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.011196972,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.000004576,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "PV module",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 1.636738961,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "aluminum",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "aluminum",
+      "kg_per_plant": 1046.066898,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "chromium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "chromium",
+      "kg_per_plant": 1.475308049,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "cobalt",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "cobalt",
+      "kg_per_plant": 0.008950728,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "dysprosium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "dysprosium",
+      "kg_per_plant": 1.43e-7,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "gallium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "gallium",
+      "kg_per_plant": 0.000107179,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "lithium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "lithium",
+      "kg_per_plant": 1.43e-7,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "low carbon steel",
+      "level_1_analysis_group": "steel",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 552.5005391,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "manganese",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "manganese",
+      "kg_per_plant": 10.69630119,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "nickel",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "nickel",
+      "kg_per_plant": 7.790501505,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "niobium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "niobium",
+      "kg_per_plant": 0.001607749,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "praseodymium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "praseodymium",
+      "kg_per_plant": 0.002823249,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "terbium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "terbium",
+      "kg_per_plant": 7.15e-8,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "thermoplastic",
+      "level_1_analysis_group": "composites and polymers",
+      "level_2_analysis_group": "non-vulnerable",
+      "kg_per_plant": 0.514904533,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "tin",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "tin",
+      "kg_per_plant": 0.000764836,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "titanium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "titanium",
+      "kg_per_plant": 0.271851652,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "vanadium",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "vanadium",
+      "kg_per_plant": 0.00000651,
+      "assumed_plant_size_mw": 0.0715
+    },
+    {
+      "facility_id": "Solar PV - Residential Rooftop",
+      "component_id": "Racking",
+      "material_type_id": "zinc",
+      "level_1_analysis_group": "other metals and alloys",
+      "level_2_analysis_group": "zinc",
+      "kg_per_plant": 0.124779512,
+      "assumed_plant_size_mw": 0.0715
+    }
+  ]
+}
