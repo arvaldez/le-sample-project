@@ -47,7 +47,7 @@ export const signUpUser = async (
     email: email,
     password: password,
     name: name,
-    role: "basic_role",
+    role: "User",
   })
 
   return createdUser
