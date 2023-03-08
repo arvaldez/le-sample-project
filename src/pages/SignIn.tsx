@@ -3,6 +3,7 @@ import { ChangeEvent, FormEvent, useState } from "react"
 import { signInUser } from "../config/firebase"
 import { useNavigate, Link } from "react-router-dom"
 import energyImage from "../images/renewable-energy-colored.png"
+import Banner from "../partials/Banner"
 
 const defaultFormFields = {
   email: "",
@@ -105,6 +106,7 @@ function SignIn() {
             </form>
           </div>
         </div>
+        <Banner />
       </div>
     </div>
   )
